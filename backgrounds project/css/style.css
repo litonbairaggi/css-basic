@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+}
+.back-part{
+    width: 1200px;
+    height: 900px;
+    background: #f5f5f5;
+    margin: 0 auto;
+    position: relative;
+}
+.font-part{
+    width: 1000px;
+    height: 880px;
+    background: #cbaae8;
+    margin: 0 auto;
+}
