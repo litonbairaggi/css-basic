@@ -1,0 +1,13 @@
+.name{
+    width: 600px;
+    height: 500px;
+    background: #800000;
+    margin: auto;
+    position: relative;
+}
+h1{
+    border: 3px solid #c0c0c0;
+    position: absolute;
+    margin-left: 10px;
+    padding: 50px 10px 30px 100px;
+}
