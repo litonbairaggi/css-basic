@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+}
+.bg-div{
+    width: 80%;
+    height: 900px;
+    background: #f3f0f0;
+    margin: auto;
+}
+.head-div{
+    width: 90%;
+    height: 100px;
+    background: #7ad897;
+    position: relative;
+    margin: auto;
+}
+.menue-list {
+    width: 50%;
+    height: 60px;
+    text-align: center;
+    margin-top: 10px;
+    word-spacing: 50px;
+    float: right;
+}
+.menue-list ul li{
+    list-style-type: none;
+    display: inline;
+    text-align: center;
+
+}
+.menue-list ul li a{
+    text-decoration: none;
+    color: #800000; 
+}
+.menue-list ul li a:hover{
+    background: #000000;
+    color: red;
+}
