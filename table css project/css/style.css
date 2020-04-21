@@ -1,0 +1,15 @@
+caption{
+    color: #262cdc;
+    font-size: 30px;
+}
+table{
+    width: 30%;
+    margin: 0 auto;
+    border-collapse: collapse;
+    background: #eae7e7;
+}
+th, td{
+    border: 3px solid #800000;
+    text-align: center;
+    padding: 5px;
+}
