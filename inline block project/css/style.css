@@ -1,0 +1,26 @@
+.a{
+    width: 100px;
+    height: 100px;
+    /* width & height not work */
+    display: inline;
+    background: #ffff00;
+    border: 3px solid #8a2be2;
+    padding: 5px;
+}
+.b{
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    background: #ffff00;
+    border: 3px solid #8a2be2;
+    padding: 5px;
+}
+.c{
+    width: 100px;
+    height: 100px;
+    /* create block, so capture full space*/
+    display: block;
+    background: #ffff00;
+    border: 3px solid #8a2be2;
+    padding: 5px;
+}
