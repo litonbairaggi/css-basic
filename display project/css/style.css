@@ -1,0 +1,13 @@
+h2{
+    background: #c0c0c0;
+    text-align: center;
+    display: inline-block;
+}
+span{
+    text-align: center;
+    display: block;
+    background: pink;
+}
+ul li{
+    display: inline;
+}
