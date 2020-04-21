@@ -1,0 +1,12 @@
+.star-img{
+    width: 200px;
+    float: right;
+}
+img{
+    width: 300px;
+    float: left;    
+}
+p{
+    clear: both;
+}
+
