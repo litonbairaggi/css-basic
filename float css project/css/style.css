@@ -10,4 +10,23 @@ p{
     color: #617106;
     clear: both;
 }
+.box{
+    height: 200px;
+    background: #c0c0c0;
+    width: 25%;
+    float: left;
+    margin-top: 20px;
+}
+.box1{
+    background: #8a2be2;
+}
+.box2{
+    background: #11d8c7;
+}
+.box3{
+    background: #f8cc07;
+}
+.box4{
+    background: #05b62c;
+}
 
