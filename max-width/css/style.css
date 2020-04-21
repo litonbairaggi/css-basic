@@ -1,0 +1,9 @@
+.para1{
+    border: 3px solid #800000;
+    width: 1500px;
+    color: blue;
+}
+.para2{
+    border: 3px solid #a814c5;
+    max-width: 1500px;
+}
