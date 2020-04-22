@@ -1,0 +1,12 @@
+p::first-letter{
+    color: #e04c4c;
+    font-size: 40px;
+}
+h2{
+    color: green;
+    font-size: 60px;
+}
+h2::after{
+    content: url(../img/star.png);
+
+}
