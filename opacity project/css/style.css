@@ -1,0 +1,14 @@
+.bg{
+    width: 700px;
+    height: 500px;
+    background: url(../img/villege.jpg);
+    overflow: hidden;
+}
+.box p{
+    text-align: center;
+    color: #8a2be2;
+    background: #ffffff;
+    padding: 30px;
+    opacity: 0.6;
+    margin-top: 100px;
+}
