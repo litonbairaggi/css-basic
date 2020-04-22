@@ -6,6 +6,15 @@ body{
     height: 900px;
     background: #f3f0f0;
     margin: auto;
+    overflow: hidden;
+}
+.logo{
+    width: 50px;
+    height: 50px;
+    background: url(../img/star.png);
+    display: inline-block;
+    margin-left: 60px;
+    margin-top: 10px;
 }
 .head-div{
     width: 90%;
@@ -13,6 +22,7 @@ body{
     background: #7ad897;
     position: relative;
     margin: auto;
+    margin-top: 10px;
 }
 .menue-list {
     width: 50%;
