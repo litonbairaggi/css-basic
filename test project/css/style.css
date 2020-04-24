@@ -1,0 +1,79 @@
+.bag{
+    width: 80%;
+    height: 700px;
+    background: #f0efef;
+    margin: auto; 
+    overflow: hidden;   
+}
+.head{
+    width: 80%;
+    height: 90px;
+    background: #333;
+    margin: auto;
+    margin-top: 10px;
+    position: relative;
+}
+.logo{
+    display: inline-block;
+}
+img {
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    margin-left: 50px;
+}
+.menu-bar{
+    position: absolute;
+    width: 60%;
+    height: 50px;
+    right: 0;
+    top: 0;
+    /* background: pink; */
+    margin-top: 10px;
+    margin-right: 10px;
+}
+.menu-bar ul{
+    list-style-type: none;
+    text-align: right;   
+}
+.menu-bar ul li a{
+    text-decoration: none;
+    float: left;
+    padding: 5px 10px;
+    margin-right: 45px;
+    font-size: 17px;
+    text-transform: capitalize;
+    color: #ffff00;
+}
+.menu-bar ul li:hover a{
+    background: rgb(87, 86, 86);
+    color: rgb(243, 202, 202);
+}
+.bottom-div{
+    width: 60%;
+    margin: auto;
+    margin-top: 50px;
+    position: relative;
+}
+form{
+    text-align: center;
+}
+form .sub input {
+    background: rgb(95, 116, 236);
+    padding: 10px 20px;
+    color: rgb(250, 166, 10);
+    font-size: 15px;
+    border-radius: 20px;
+    margin-top: 30px;
+    min-width: 150px;
+}
+.info-div b {
+    margin-right: 30px;
+    text-transform: capitalize;
+}
+input {
+    padding: 8px;
+    border: 1px solid #f3b97a;
+    min-width: 300px;
+    border-radius: 5px;
+}
