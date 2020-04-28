@@ -118,7 +118,8 @@ section.box-area:after {
     width: 45%;
     float: left;
     text-transform: capitalize;
-    border-right: 1px dotted #c0c0c0;   
+    border-right: 1px dotted #c0c0c0; 
+    padding-right: 5%;  
 }
 .clint-div h2{
     margin: 30px auto;
