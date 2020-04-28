@@ -1,0 +1,259 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.hesd-bg{
+    width: 80%;
+    background: #333;
+    margin: auto;
+}
+.logo-div h1{
+    margin: 30px;
+    color: #fff;
+    float: left;
+}
+.menu-div{  
+    width: 50%px;
+    float: right;
+    margin-top: 50px;
+    margin-right: 20px;
+}
+.menu-div ul{
+    list-style-type: none;
+    word-spacing: 30px;
+    text-align: center;
+}
+.menu-div ul li{
+    display: inline-block;
+
+}
+.menu-div ul li a{
+    text-decoration: none;
+    color: #eee;
+    font-size: 17px;
+    text-transform: capitalize;
+}
+.menu-div ul li:hover a{
+    color: #03A9F4;
+}
+header.hesd-bg:after {
+    display: table;
+    clear: both;
+    content: '';
+}
+/* main start */
+main {
+    width: 70%;
+    margin: 0 auto;
+    padding: 50px 0;
+
+}
+.home-ti h2 span{
+    text-transform: capitalize;
+    color: #03A9F4;
+}
+.home-ti .opac{
+font-family: 'Manrope', sans-serif;
+    text-transform: capitalize;
+    opacity: 0.4;
+}
+.comon-hr{
+    margin: 20px auto;
+    border: 1px dotted #c0c0c0;
+}
+/* services */
+.three-of-one{
+    width: 30%;
+    background: #03A9F4;
+    float: left;
+    margin-right: 5%;
+    text-align: center;
+    overflow: hidden;
+}
+.three-of-one:last-child{
+    margin-right: 0;
+}
+section.box-area:after {
+    display: table;
+    clear: both;
+    content: '';
+}
+.three-of-one .top-div h2{
+    margin: 10px auto;
+    color: #eee;
+}
+.com-hr{
+    width: 90%;
+    border: 1px solid #eee;
+    margin: auto;
+    margin: 10px auto;
+}
+.three-of-one .top-div p{
+    width: 90%;
+    color: #eee;
+    padding: 20px;
+    font-size: 15px;
+}
+.top-div .bottom-div{
+    max-height: 200px;
+    margin: 30px auto;
+}
+.top-div .bottom-div a{
+    border: 1px solid #000000;
+    padding: 3px 10px;
+    background: rgb(70, 69, 69);
+    color: #eee;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.top-div .bottom-div:hover a{
+    color: #03A9F4;
+}
+/* bottom part clint part----------------*/
+.clint-div{
+    width: 45%;
+    float: left;
+    text-transform: capitalize;
+    border-right: 1px dotted #c0c0c0;   
+}
+.clint-div h2{
+    margin: 30px auto;
+}
+.image-div{
+    margin: 30px auto;
+}
+.image-div img{
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin-right: 10px;
+    border: 2px solid #d4d0d0;
+}
+.image-div p{
+    margin: 4px auto;
+}
+.image-div p:last-child{
+    color: #03A9F4;
+}
+
+
+/* right part */
+.project-div{
+    width: 45%;
+    float: right;
+}
+.h-bg{
+    width: 100%;
+    background: #fff;
+    margin: 0 auto;
+    margin-top: 10px;
+    float: left;
+    box-shadow: 0 4px 8px 0 #000000;
+    margin: 20px auto;
+}
+
+
+.title-div p{
+    width: 100%;
+    padding-bottom: 10px;
+}
+.title-div a{
+    color: #03A9F4;
+    text-transform: capitalize;
+    text-decoration: none;
+}
+.title-div h3{
+    text-transform: capitalize;
+}
+.title-div p{
+    text-transform: capitalize;
+}
+.div-left h2 {
+    text-transform: capitalize;
+    color: #eee;
+}
+.div-left h4 {
+    color: #eee;
+}
+.div-left p {
+    color: #eee;
+}
+
+.h-bg .lo-div h2{
+    margin-top: 30px;
+    margin-left: 15px;
+    text-transform: uppercase;
+    float: left;
+    margin: 20px auto;
+    padding-left: 20px;
+}
+.h-bg .me-div{
+    width: 50%px;
+    float: right;
+    margin-right: 50px;
+    margin-top: 40px;
+}
+.h-bg .me-div ul{
+    word-spacing: 20px;
+    list-style-type: none;
+    text-align: center;
+}
+.h-bg .me-div ul li{
+    display: inline-block;
+}
+.me-div ul li a{
+    text-decoration: none;
+    text-transform: capitalize;
+    font-size: 12px;
+}
+section.news-div:after, .two-of-one:after {
+    display: table;
+    clear: both;
+    content: '';
+}
+/* middle div */
+.div-mid{
+    width: 100%;
+    margin: 20px auto;
+    background: rgb(158, 143, 113);
+    overflow: hidden;
+}
+.div-mid .div-left{
+    width: 45%;
+    float: left;
+    padding: 10px;
+}
+.div-mid .div-right img{
+    float: right;
+    width: 45%;
+    height: 130px;
+    padding: 10px;
+}
+/*  services tag  */
+.three-tag{
+    margin: 10px auto;
+}
+.one {
+    width: 30%;
+    float: left;
+    margin-right: 0;
+    text-align: center;
+    padding-right: 5%;
+}
+.two {
+    width: 30%;
+    text-align: center;
+    margin: auto;
+    display: inline-block;
+    padding-right: 5%;
+}
+.three {
+    width: 30%;
+    float: right;
+    text-align: center;
+}
+
